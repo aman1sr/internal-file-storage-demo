@@ -10,7 +10,6 @@ import androidx.lifecycle.lifecycleScope
 import com.example.downloadimgstoreinternalstorage.databinding.ActivityMainBinding
 import kotlinx.coroutines.launch
 
-
 const val TAG = "ImageHelper_d"
 class MainActivity : AppCompatActivity() {
     lateinit var binding: ActivityMainBinding
